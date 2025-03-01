@@ -1,4 +1,3 @@
-﻿-- إنشاء قاعدة بيانات نظام التسوق عبر الإنترنت
 CREATE DATABASE OnlineShoppingSystem;
 
 USE OnlineShoppingSystem;
